@@ -49,12 +49,6 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/tindog.git
+   git clone https://github.com/rimjhimsingh/tinderforDogs.git
    ```
-2. **Navigate to the project directory**:
-
-    ```bash
-
-   cd tindog
-   ```
-3. **Open the project in a browser**: Open index.html in your favorite browser to see the magic in action!
+2. **Open the project in a browser**: Open index.html in your favorite browser to see the magic in action!
